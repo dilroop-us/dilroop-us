@@ -19,7 +19,6 @@
 identity   : systems and cryptography engineer
 focus      : secure systems, protocol design, implementation safety
 direction  : cryptography research and future secure systems
-style      : minimal, explicit, measurable
 ```
 
 ---
