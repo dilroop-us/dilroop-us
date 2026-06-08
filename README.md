@@ -31,12 +31,6 @@ My interest is in building security-critical software that is clear, measurable,
 
 Cryptography research is part of my direction, especially when it connects theory with implementation.
 
-```txt
-research should become prototypes
-prototypes should become measurements
-measurements should shape better systems
-```
-
 ---
 
 ### current direction
